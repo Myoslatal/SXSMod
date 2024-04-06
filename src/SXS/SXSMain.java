@@ -31,7 +31,7 @@ public class SXSMain extends Mod{
     @Override
     public void loadContent(){
         Log.info("Loading some example content.");
-        Log.info("there is no content");
+        
     }
 
 }
