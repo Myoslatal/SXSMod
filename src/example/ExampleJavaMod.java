@@ -13,7 +13,7 @@ public class ExampleJavaMod extends Mod{
 
     public ExampleJavaMod(){
         Log.info("Loaded ExampleJavaMod constructor.");
-
+        Log.info("hello");
         //listen for game load event
         Events.on(ClientLoadEvent.class, e -> {
             //show dialog upon startup
