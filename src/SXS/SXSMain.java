@@ -11,7 +11,7 @@ import mindustry.ui.dialogs.*;
 
 public class SXSMain extends Mod{
 
-    public ExampleJavaMod(){
+    public SXSMain(){
         Log.info("Loaded ExampleJavaMod constructor.");
         Log.info("hello");
         //listen for game load event
